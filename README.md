@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skitch518
 - 👀 My hobby is fishkeeping
-- 🌱 I’m currently learning software development at Bellvue University
+- 🌱 I’m currently learning software development at Bellevue University
 - 💞️ I’m looking to collaborate on projects to help build my resume
 - 📫 How to reach me https://discord.gg/r6b4jAMZ
 
