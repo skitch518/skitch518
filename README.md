@@ -2,7 +2,7 @@
 - 👀 My hobby is fishkeeping
 - 🌱 I’m currently learning software development at Bellevue University
 - 💞️ I’m looking to collaborate on projects to help build my resume
-- 📫 How to reach me [https://discord.gg/r6b4jAMZ](https://discord.gg/gp4jp9xh)
+- 📫 How to reach me https://discord.gg/YjRXeKaERq 
 
 <!---
 skitch518/skitch518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
